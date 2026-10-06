@@ -20,7 +20,7 @@ Parameters recovered via blind BLS detection, compared against official literatu
 
 | Parameter | 10b (Calculated) | 10b (Literature) | 10c (Calculated) | 10c (Literature) |
 |---|---|---|---|---|
-| **Orbital Period** | 0.837491 d | 0.837495 d | 45.294248 d | 45.29485 d |
+| **Orbital Period** | 0.837491 d | 0.837495 d | 45.294248 d | 45.294301 d |
 | **Transit Duration** | 0.073 d (1.75 h) | 0.0754 d (1.81 h) | 0.268 d (6.43 h) | 0.286 d (6.86 h) |
 | **Transit Depth** | 168 ppm | ~152-168 ppm | 380 ppm | ~376 ppm |
 
@@ -50,5 +50,5 @@ To adapt for a different target, modify the search string in the archive query c
 
 - Batalha, N. M. et al. (2011): [Kepler's First Rocky Planet: Characterization of Kepler-10b](https://doi.org/10.1088/0004-637X/729/1/27)
 - Fressin, F. et al. (2011): [Kepler-10c, a 2.2 Earth Radius Transiting Planet in a Multiple System](https://doi.org/10.1088/0067-0049/197/1/5)
-- [NASA Exoplanet Archive: Kepler-10 system](https://exoplanetarchive.ipac.caltech.edu/)
+- [NASA Exoplanet Archive: Kepler-10 system](https://exoplanetarchive.ipac.caltech.edu/overview/Kepler%2010)
 - [Lightkurve](https://lightkurve.github.io)
